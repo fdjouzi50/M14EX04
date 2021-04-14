@@ -1,5 +1,5 @@
-#file to ignore
+#files de ignore 
 .classpath
-.project
 .idea
 .iml
+.project
